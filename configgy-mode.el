@@ -32,6 +32,13 @@
 
 ;; This is extremely basic.
 
+;; To use, add this to your .emacs file:
+
+;; (add-to-list 'load-path "~/.emacs.d/vendor/configgy")
+;; (require 'configgy-mode)
+
+;; Now simply open a .conf file and watch the magic happen!
+
 ;;; Code:
 
 
