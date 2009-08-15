@@ -38,6 +38,9 @@
 (eval-when-compile
   (require 'cl))
 
+(defvar configgy-mode-version 20090814
+  "Release number for `configgy-mode'.")
+
 (defvar configgy-mode-hook nil)
 
 (defvar configgy-mode-map
