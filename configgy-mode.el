@@ -34,7 +34,7 @@
 
 ;; To use, add this to your .emacs file:
 
-;; (add-to-list 'load-path "~/.emacs.d/vendor/configgy")
+;; (add-to-list 'load-path "~/.emacs.d/vendor/configgy-mode")
 ;; (require 'configgy-mode)
 
 ;; Now simply open a .conf file and watch the magic happen!
